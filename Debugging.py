@@ -56,4 +56,4 @@ try:
 except (ValueError, TypeError) as e:
     print(f'Error is: {e}')
 else:
-    print(f'Hahah my turn age is {a}')
+    print('Hahah my turn!')
